@@ -1,4 +1,4 @@
 ShowTracker
 ===========
 
-ShowTracker using MEAN Stack
+Show tracker using MEAN Stack
